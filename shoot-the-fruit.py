@@ -1,4 +1,3 @@
-import pgzrun
 from random import randint
 
 apple = Actor("apple")
@@ -40,4 +39,3 @@ place_apple()
 place_orange()
 place_pineapple()
 
-pgzrun.go()
